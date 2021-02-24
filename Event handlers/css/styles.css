@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: coral;
+  text-align: center;
+  font-size: 2.5rem;
+  padding-top: 20px;
+}
+
+body h1 {
+  font-family: monospace;
+  text-decoration: underline;
+}
+
+body h6 {
+  padding: 20px;
+}
+
+.game img {
+  border-radius: 15px;
+  margin: 40px 0 10px 0;
+}
+
+.game h3 {
+  font-family: monospace;
+}
+/*# sourceMappingURL=styles.css.map */
